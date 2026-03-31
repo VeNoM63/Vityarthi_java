@@ -328,7 +328,7 @@ This project is a practical application of Java programming concepts to solve a 
 
 ## 17. Author
 
-**Kushagra Tewari 24BAI10609**
+**B Pranit 24BAI10199**
 
 ---
 
